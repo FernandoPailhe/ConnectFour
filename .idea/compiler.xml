@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Connect_Four.Connect_Four-task-build-classes-kotlin.main" target="8" />
+      <module name="Connect_Four.Connect_Four-task-build-reports-tests.main" target="8" />
+      <module name="Connect_Four.Connect_Four-task-build-test-results.main" target="8" />
+      <module name="Connect_Four.Connect_Four-task-build-tmp.main" target="8" />
+      <module name="Connect_Four.Connect_Four-task.main" target="8" />
+      <module name="Connect_Four.Topics-Characters-A_capital_letter_or_a_digit.main" target="8" />
+      <module name="Connect_Four.Topics-Characters-Compare_Latin_letters.main" target="8" />
+      <module name="Connect_Four.Topics-Characters-Comparing_numbers_and_characters.main" target="8" />
+      <module name="Connect_Four.Topics-Characters-Encoding_table.main" target="8" />
+      <module name="Connect_Four.Topics-Characters-Sequence.main" target="8" />
+      <module name="Connect_Four.Topics-Characters-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-For_loop_and_lists-Print_all_elements.main" target="8" />
+      <module name="Connect_Four.Topics-For_loop_and_lists-Right_Rotation.main" target="8" />
+      <module name="Connect_Four.Topics-For_loop_and_lists-The_index_of_the_first_max.main" target="8" />
+      <module name="Connect_Four.Topics-For_loop_and_lists-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-For_loop_and_ranges-Count_the_numbers.main" target="8" />
+      <module name="Connect_Four.Topics-For_loop_and_ranges-Fizz_Buzz.main" target="8" />
+      <module name="Connect_Four.Topics-For_loop_and_ranges-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-Processing_strings-Compression_algorithm.main" target="8" />
+      <module name="Connect_Four.Topics-Processing_strings-Create_an_euphonious_word.main" target="8" />
+      <module name="Connect_Four.Topics-Processing_strings-Determine_the_value.main" target="8" />
+      <module name="Connect_Four.Topics-Processing_strings-Move_the_first_N_characters.main" target="8" />
+      <module name="Connect_Four.Topics-Processing_strings-Parse_url.main" target="8" />
+      <module name="Connect_Four.Topics-Processing_strings-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-Ranges-Between_two_numbers.main" target="8" />
+      <module name="Connect_Four.Topics-Ranges-Correct_statements.main" target="8" />
+      <module name="Connect_Four.Topics-Ranges-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-Ranges-Within_both_ranges.main" target="8" />
+      <module name="Connect_Four.Topics-Repeating_blocks-Kotlin_x5.main" target="8" />
+      <module name="Connect_Four.Topics-Repeating_blocks-Repeat_by_value.main" target="8" />
+      <module name="Connect_Four.Topics-Repeating_blocks-Size_of_parts.main" target="8" />
+      <module name="Connect_Four.Topics-Repeating_blocks-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-Work_with_MutableLists-Adding_lists.main" target="8" />
+      <module name="Connect_Four.Topics-Work_with_MutableLists-Help_the_Lord_Commander.main" target="8" />
+      <module name="Connect_Four.Topics-Work_with_MutableLists-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-Working_with_strings-N-th_symbol.main" target="8" />
+      <module name="Connect_Four.Topics-Working_with_strings-Name_Card.main" target="8" />
+      <module name="Connect_Four.Topics-Working_with_strings-The_number_of_tens.main" target="8" />
+      <module name="Connect_Four.Topics-Working_with_strings-Theory.main" target="8" />
+      <module name="Connect_Four.util.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
